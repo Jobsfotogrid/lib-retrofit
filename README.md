@@ -3,5 +3,6 @@ Foi retrofit foi utilizada pesse projeto com o objetivo de ensinar o usuário a 
 <br> Diretórios do projeto:
 * activity
 * api
+ *texte
 * model 
  
