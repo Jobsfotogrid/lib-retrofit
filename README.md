@@ -1,6 +1,6 @@
 # Biblioteca-retrofit
-Foi retrofit foi utilizada pesse projeto com o objetivo de ensinar o usuário a utilizar a lib [retrofit](https://square.github.io/retrofit/) dentro do seu projetro android:
-<br> Diretórios do projeto:
+A lib [retrofit](https://square.github.io/retrofit/) foi utilizada no presente projeto com o objetivo de ensinar o usuário a utilizar a mesma dentro do seu projetro android:
+<br> Pacotes do projeto:
 ``activity``
 ``api``
 ``model`` 
