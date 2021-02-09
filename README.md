@@ -4,6 +4,10 @@ A lib [retrofit](https://square.github.io/retrofit/) foi utilizada no presente p
 ``activity``
 ``api``
 ``model`` 
+Sites utlizados
+* [retrofit](https://square.github.io/retrofit/)
+* [viaCep]((https://viacep.com.br/))
+* [JSONPlaceHolder](https://jsonplaceholder.typicode.com/)
 * Ferramenta de desenvolvimento utilizada durante o processo de densenvolvimento do App `Android Studio`
 * Versão do Android `5.0 (Lollipop)`
 * API `21`
