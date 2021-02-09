@@ -18,8 +18,6 @@ Linhas de implementação: ``'com.squareup.retrofit2:retrofit:2.9.0'`` &  ``'com
 Permissões  do  Android: ``<uses-permission android:name="android.permission.INTERNET"/>``
 <br>
 Para executar os camandos ``Post``, ``Put``, ``Patch`` e ``delete`` é necessário inicializar o método esclhido no onCreate através do evento de clique do botão: ``removerPostagem();``, ``atualizarPostagem()``,  ``salvarPostagem();``, ``recuperarListaRetrofit();``, ``recuperarCEPRetrofit();``;
-<br>
-Como mostra o exemplo abaixo:
 ```
  exibirContacao.setOnClickListener(new View.OnClickListener() {
             @Override
