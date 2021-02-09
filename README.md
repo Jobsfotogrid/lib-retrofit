@@ -12,3 +12,7 @@ A lib [retrofit](https://square.github.io/retrofit/) foi utilizada no presente p
 * Ferramenta de desenvolvimento utilizada durante o processo de densenvolvimento do App `Android Studio`
 * Versão do Android `5.0 (Lollipop)`
 * API `21`
+
+Linhas de implementação <br>
+``implementation 'com.squareup.retrofit2:retrofit:2.9.0'``
+``implementation 'com.squareup.retrofit2:converter-gson:2.9.0'`` 
