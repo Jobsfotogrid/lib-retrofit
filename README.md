@@ -5,7 +5,7 @@ A lib [retrofit](https://square.github.io/retrofit/) foi utilizada no presente p
 ``api``
 ``model`` 
 Sites utlizados
-* [etrofit](https://square.github.io/retrofit/)
+* [Retrofit](https://square.github.io/retrofit/)
 * [iaCep](https://viacep.com.br/)
 * [SONPlaceHolder](https://jsonplaceholder.typicode.com/)
 * Ferramenta de desenvolvimento utilizada durante o processo de densenvolvimento do App `Android Studio`
