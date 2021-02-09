@@ -15,4 +15,4 @@ A lib [retrofit](https://square.github.io/retrofit/) foi utilizada no presente p
 
 Linhas de implementação: ``'com.squareup.retrofit2:retrofit:2.9.0'`` &  ``'com.squareup.retrofit2:converter-gson:2.9.0'`` 
 <br>
-Permmissões do Android:  ``<uses-permission android:name="android.permission.INTERNET"/>``
+Permissões  do  Android: ``<uses-permission android:name="android.permission.INTERNET"/>``
