@@ -19,4 +19,4 @@ Linhas de implementação:
 <br>
 ``implementation 'com.squareup.retrofit2:converter-gson:2.9.0'`` 
 <br>
-Permmissões do Android:``<uses-permission android:name="android.permission.INTERNET"/>``
+Permmissões do Android: ``<uses-permission android:name="android.permission.INTERNET"/>``
