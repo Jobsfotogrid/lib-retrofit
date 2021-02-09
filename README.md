@@ -16,3 +16,5 @@ A lib [retrofit](https://square.github.io/retrofit/) foi utilizada no presente p
 Linhas de implementação: ``'com.squareup.retrofit2:retrofit:2.9.0'`` &  ``'com.squareup.retrofit2:converter-gson:2.9.0'`` 
 <br>
 Permissões  do  Android: ``<uses-permission android:name="android.permission.INTERNET"/>``
+<br>
+Para executar os camandos ``Post``, ``Put``, ``Patch`` e ``delete`` é necessário inicializar os seguintes métodos: ``removerPostagem();``,``atualizarPostagem()``,  ``salvarPostagem();``, ``recuperarListaRetrofit();``, ``recuperarCEPRetrofit();``;
